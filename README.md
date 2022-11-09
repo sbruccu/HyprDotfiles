@@ -7,4 +7,4 @@ Install
 - swaybg
 - brightnessctl
 
-Put the scripts in ~HOME/
+Put the scripts in /home
