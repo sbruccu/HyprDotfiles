@@ -1,7 +1,7 @@
 # Dotfiles
 
 Install
-- hypr
+- hyprland
 - waybar-hyprland (AUR)
 - wofi
 - swaybg
