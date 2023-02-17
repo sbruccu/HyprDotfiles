@@ -1,4 +1,4 @@
-# Dotfiles
+# HyprDotfiles
 
 Install
 - hyprland
